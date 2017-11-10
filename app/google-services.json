@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "406098680642",
+    "firebase_url": "https://dogscheduler.firebaseio.com",
+    "project_id": "dogscheduler",
+    "storage_bucket": "dogscheduler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406098680642:android:a8c456a83a30eefb",
+        "android_client_info": {
+          "package_name": "com.teamvii.dogscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406098680642-d29m9u2mtsktsogklonuqnnav3jm9hdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamvii.dogscheduler",
+            "certificate_hash": "fd2d050df9790dc7fcc79ae6119c463d0a53aa18"
+          }
+        },
+        {
+          "client_id": "406098680642-ghn26sa6287tm3k67egq0ioc2qtj9mkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSgkJaVQSRI1TpMDX57b9ntpGEAqVnrv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406098680642-ghn26sa6287tm3k67egq0ioc2qtj9mkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
